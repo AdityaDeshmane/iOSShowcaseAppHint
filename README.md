@@ -34,7 +34,7 @@ iOS Showcase / App Hint customisable view control
 
 ```obj-c
 
-//1.  IMPORT
+//1. IMPORT
   #import "ADShowcaseViewController.h"
 
 //2. CREATING INSTANCE OF CONTROL
