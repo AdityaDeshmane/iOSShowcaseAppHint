@@ -35,7 +35,7 @@ iOS Showcase / App Hint customisable view control
 ```obj-c
 
 //1.  IMPORT
-#import "ADShowcaseViewController.h"
+  #import "ADShowcaseViewController.h"
 
 //2. CREATING INSTANCE OF CONTROL
   ADShowcaseViewController *_vcADShowcase; //Declare
@@ -48,7 +48,7 @@ iOS Showcase / App Hint customisable view control
   _vcADShowcase.strRemoveViewButtonTitle = @"Got it";    
 
 //4. ADD AS SUBVIEW
-[self.view addSubview:_vcADShowcase.view];//Either on view or window (window recommended)
+  [self.view addSubview:_vcADShowcase.view];//Either on view or window (window recommended)
 
 
 ```
